@@ -1,5 +1,8 @@
 # QuickNotes - A Note-Taking Application
 
+![Screenshot 2024-06-08 212204](https://github.com/vishalgit1810/QuickNotes/assets/130865513/d794382b-648d-42ba-8974-17660c656b1f)
+![Screenshot 2024-06-08 212204](https://github.com/vishalgit1810/QuickNotes/assets/130865513/7a9ee52f-d62e-4041-b070-2457fa97631d)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
