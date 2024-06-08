@@ -11,8 +11,7 @@
 5. [Usage](#usage)
 6. [Screenshots](#screenshots)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+8. [Contact](#contact)
 
 ## Introduction
 
