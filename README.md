@@ -1,7 +1,6 @@
 # QuickNotes - A Note-Taking Application
 
 ![Screenshot 2024-06-08 212204](https://github.com/vishalgit1810/QuickNotes/assets/130865513/d794382b-648d-42ba-8974-17660c656b1f)
-![Screenshot 2024-06-08 212204](https://github.com/vishalgit1810/QuickNotes/assets/130865513/7a9ee52f-d62e-4041-b070-2457fa97631d)
 
 ## Table of Contents
 
@@ -90,13 +89,27 @@ To set up the QuickNotes application locally, follow these steps:
 - Log in with admin credentials to manage user accounts and their details.
 ## Screenshots
 
-#### Login Page
+#### Register Page
+![Screenshot 2024-06-08 212341](https://github.com/vishalgit1810/QuickNotes/assets/130865513/3d6308ba-7666-4a06-8a26-f6908755f11a)
 
+#### Login Page
+![Screenshot 2024-06-08 212510](https://github.com/vishalgit1810/QuickNotes/assets/130865513/51f835df-198d-4bbb-8c3c-215e82fefeda)
+
+#### Home Page
+![Screenshot 2024-06-08 212658](https://github.com/vishalgit1810/QuickNotes/assets/130865513/edaeca97-66d6-48bf-9911-afe2d933ea63)
 
 #### User Dashboard
+![Screenshot 2024-06-08 212720](https://github.com/vishalgit1810/QuickNotes/assets/130865513/f2c2eca7-3d7b-4071-b31d-90cf4e80b047)
 
+#### Add Notes
+![Screenshot 2024-06-08 212934](https://github.com/vishalgit1810/QuickNotes/assets/130865513/69acd90c-395a-46db-99e5-635c114f173d)
 
-#### Note Management Interface
+#### View Notes
+![Screenshot 2024-06-08 212903](https://github.com/vishalgit1810/QuickNotes/assets/130865513/2217ce0c-da7a-4b46-aabc-dc661c3e6f52)
+
+#### About US
+![Screenshot 2024-06-08 212621](https://github.com/vishalgit1810/QuickNotes/assets/130865513/ee429d79-53e6-4589-b269-1989ded6d6cb)
+
 
 ## Contributing
 Contributions are welcome! To contribute to the project, follow these steps:
